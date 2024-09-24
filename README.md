@@ -14,7 +14,7 @@
 - Completed internships in Data Science, specializing in predictive analytics and customer churn models.
 
 📫 Let's Connect!
-- LinkedIn: linkedin.com/in/abhishek-kumar-106703227
+- LinkedIn: https://www.linkedin.com/in/abhishek-kumar-106703227/
 - Email: abhisheklauren@gmail.com
 <!---
 imabhi44/imabhi44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
