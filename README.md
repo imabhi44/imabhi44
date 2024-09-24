@@ -1,9 +1,9 @@
-##**Hi there 👋, I'm Abhishek Kumar!**##
+**Hi there 👋, I'm Abhishek Kumar!**
 
 🚀 About Me
 - I am a Data Science and Machine Learning enthusiast, currently pursuing B-tech at IIT BHU(VARANASI). I have hands-on experience building machine learning models, predictive analytics solutions. Passionate about solving real-world problems. Constantly learning new technologies, love to create impactful solutions.
 
-🛠 ##**Skills & Technologies**##
+🛠 **Skills & Technologies**
 - Languages: Python, SQL,C++
 - Data Science: Machine Learning, Deep Learning, Predictive Analytics, Data Visualization
 - Frameworks/Libraries: TensorFlow, Keras, Scikit-Learn, Pandas, Numpy, Streamlit
